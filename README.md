@@ -1,4 +1,6 @@
 # FastShell
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/yakovlevgleb/fastshell.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/HosseinKarami/fastshell.png?branch=master)](https://travis-ci.org/HosseinKarami/fastshell)
 
 inspired by [FireShell](http://getfireshell.com)
